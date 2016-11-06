@@ -1,0 +1,5 @@
+Currently, it's an ongoing problem. Will be able to complete it next day.
+Need to check how to compile separate template files.
+
+As of now (06.11.2016), the whole single program is in main.cpp.
+None of the rest files are being used as of now. Even Makefile is not updated.
